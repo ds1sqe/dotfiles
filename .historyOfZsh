@@ -1784,3 +1784,36 @@ auto.sh
 touch auto.sh
 ll
 clear
+ls
+l
+ll
+lvim
+vi
+cd .config
+ls
+ll
+cd ..
+cd dotfiles
+l
+ln starship.toml ~/.config/
+ln lv-config.lua ~/.config/lvim/
+ln -f lv-config.lua ~/.config/lvim/
+ls
+ll
+ln -f .gitconfig ~/
+ln -f .historyOfZsh /~
+ln -f .historyOfZsh ~/
+lvim
+ls
+ln lv-config.lua ~/.config/lvim/lv-config.lua
+lvim
+cd ~/config/lvim
+ls
+cd ~/.config/lvim
+ls
+mv lv-config.lua config.lua
+lvim
+lcim
+vi
+clear
+ls
