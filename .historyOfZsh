@@ -1,0 +1,1786 @@
+claer
+clear
+apt update
+su
+sudo apt update
+apt update
+sudo apt update
+sudo apt upgrade
+claer
+shutdown
+shutdown -a
+apt update
+sudo
+sudo apt update
+apt update
+sudo apt update
+apt upgrade
+sudo apt upgrade
+sudo apt update
+sudo apt install -f bcmwl-kernel-source
+sudo apt-get update –fix-missing
+sudo apt-get update –fix-missing *
+sudo apt-get update –fix-missing bcmwl-kernel-source
+sudo dpkg -s libc6
+sudo dpkg install libc6
+apt install libc6
+sudo apt install libc6
+sudo apt update --fix-missing
+sudo apt update
+sudo dpkg --configure -a
+sudo apt update
+apt update
+sudo apt update
+sudo apt upgrade
+apt install chrome
+sudo apt install chrome
+sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list
+
+
+
+clear
+sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list
+sudo apt-get install google-chrome-stable
+wget -q -O-https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add-
+sudo sh -c 'echo "deb [arch = amd64] http://dl.google.com/linux/chrome/deb/ stable main">> /etc/apt/sources.list.d/google-chrome.list '
+sudo apt update
+l
+cd downloads
+l
+cd Downloads
+l
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+sudo snap install starship
+gedit .bashrc
+clear
+cls
+ll
+clear
+ll
+cd$ sudo apt-get install dconf-cli
+$ sudo apt-get install dconf-cli
+sudo apt-get install dconf-cli
+git
+apt install git
+sudo apt install git
+git clone https://github.com/dracula/gnome-terminal
+cd gnome-terminal
+install.sh
+./install.sh
+cler
+clear
+l
+wget https://raw.githubusercontent.com/dracula/gedit/master/dracula.xml
+mv dracula.xml $HOME/.local/share/gedit/styles/
+mkdir /home/ds1sqe/.local/share/gedit/styles/
+mkdir $HOME/.local/share/gedit/styles/
+ls
+cd Download
+cd Downloads
+l
+tree gtk-master/
+apt install tree
+sudo apt install tree
+tree gtk-master
+sudo mv gtk-master /usr/share/themes
+gsettings set org.gnome.desktop.interface gtk-theme "Dracula"
+gsettings set org.gnome.desktop.wm.preferences theme "Dracula"
+ls
+sudo mv Dracula /usr/share/icons
+sudo apt install gnome-tweak
+sudo apt install gnome-tweaks
+clear
+sudo apt remove gnome-shell-extension-ubuntu-dock 
+sudo apt install gnome-tweak-tool gnome-shell-extensions chrome-gnome-shell
+https://github.com/vinceliuice/WhiteSur-gtk-theme
+git clone https://github.com/vinceliuice/WhiteSur-gtk-theme
+l
+cd WhiteSur-gtk-theme
+l
+./install.sh -c dark -c light
+./install.sh -t all
+l
+./tweack.sh
+./tweaks.sh
+./tweaks.sh -d
+gnome --version
+clear
+l
+cd Download
+l
+cd Downloads
+l
+ll
+l
+cd ..
+l
+cd tml
+cd tmp
+l
+sudo mv ./*.ttf /usr/share/fonts/custom/
+mkdir /usr/share/fonts/custom/
+sudo mkdir /usr/share/fonts/custom/
+sudo mv ./*.ttf /usr/share/fonts/custom/
+ibus-setup
+ibus
+ibus-setup
+sudo apt install fcitx-hangul
+l
+fcits
+fcitx
+a
+l
+git status
+clear
+l
+ll
+npm
+ll
+sudo vi
+sudo nvim
+npm install -g import-js
+sudo npm install import-js
+clear
+l
+git restore .
+l
+sudo npm install -g import-js
+clear
+sudo npm install -g import-js --allow-root --unsafe-perm=true
+npm install -g import-js
+sudo npm install -g import-js
+apt install wallly
+sudo apt install wally
+l
+git clone https://github.com/zsa/wally
+l
+cd wally
+l
+install.linux.sh
+./install.linux.sh
+cd ..
+cd ~/Downloads
+l
+wally-cli
+wally
+wally-cli
+l
+cd wally
+cd ..
+l
+cd wally
+l
+build.linux.sh
+sudo apt install libusb-dev
+sudo touch /etc/udev/rules.d/50-wally.rules
+vi /etc/udev/rules.d/50-wally.rules
+sudo groupadd plugdev
+sudo usermod -aG plugdev $USER
+cd /Download
+cd ~/Download
+cd ~/Downloads
+l
+ls
+la
+ll
+chmod +x wally
+l
+wally
+./wally
+wally
+./wally
+clear
+claer
+clearl
+clear
+l
+cd ..
+l
+claer
+clear
+ls
+vi
+nvim
+sudo apt install neovim
+sudo apt install python-neovim
+sudo apt install python3-neovim
+nvim
+clae
+claer
+clear
+l
+nvim
+curl -sLf https://spacevim.org/install.sh | bash
+snap install curl
+l
+curl -sLf https://spacevim.org/install.sh | bash
+nvim
+l
+clear
+l
+vi
+nvim
+l
+nvim
+ll
+cd .Space
+cd .SpaceVim
+l
+cd bundle
+l
+cd vimproge
+l
+ll
+nvim
+l
+nvim
+cd
+l
+cd .SpaceVim
+l
+nvim
+cd .SpaceVim
+l
+cd bundle
+l
+nvim
+cd vimproc.vim
+l
+make
+nvim
+l
+cd 
+l
+ll
+cd .SpaceVim.d
+l
+vi .
+apt install npm
+sudo apt install nodejs
+apt search nodejs
+curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+sudo apt-get install -y nodejs
+npm
+npm install -g eslint-cli
+sudo npm install -g eslint-cli
+npm install -g js-beautify
+sudo npm install -g js-beautify
+clear
+nvim .
+cd ..
+l
+rm dracula.xml
+rm ./tmp
+rm -r ./tmp
+rm -r gnome-terminal/
+l
+rm -r WhiteSur-gtk-theme
+l
+rm -r gnome-terminal
+l
+clear
+l
+mkdir Workspace
+l
+mkdir -p ~/.config && touch ~/.config/starship.toml
+l
+cd .config
+l
+vi starship.toml
+clear
+cd ~/SpaceVim.d
+l
+cd ..
+l
+ll
+cd .SpaceVim
+l
+cd ..
+cd .SpaceVim.d
+l
+vi init.toml
+l
+vi init.toml
+vi .
+l
+vi
+cd ..
+;
+l
+vi .bashrc
+vi ~/.SpaceVim.d
+vi
+l
+cd Downloads
+l
+vi
+cd ~
+l
+cd .SpaceVim.d
+l
+vi
+vi init.toml
+vi
+vi init.toml
+nvim
+vi init.toml
+vi
+vi init.toml
+vi
+vi init.toml
+vi
+clear
+vi
+l
+cd ..
+l
+cd /.SpaceVim
+l
+ll
+cd .SpaceVim
+l
+cd autoload
+l
+cd ..
+cd bundle
+;
+l
+ll
+ll grep fcitx
+l
+cd fcitx.vim
+l
+vi .
+cd ..
+l
+rm -rf fcitx.vim/
+l
+cd ..
+l
+cd ..
+l
+cd ds1sqe
+l
+vi
+l
+cd .Spacevim
+cd .SpaceVim
+l
+git clone maser
+git remote -v
+git clone origin master
+git -repair
+git fsck
+l
+git status
+git checkout
+git clean
+git restore .
+l
+cd ..
+l
+cd .
+vi
+sudo vim
+clear
+l
+yam
+yarn
+npm install -g yarn
+sudo npm install -g yar
+npm remove -g yar
+sudo npm intall -g yarn
+sudo npm install -g yarn
+sudo yarn install import-js
+sudo yarn add -g import-js
+yarn
+l
+clear
+node
+npm -list
+npm ls
+npm cache clean
+npm uninstall *
+npm l
+npm ll
+clear
+l
+cd node_modules
+l
+ll
+cd ..
+l
+rm -rf node_modules/
+l
+rm package-lock.json
+rm yarn.lock
+ll
+rm .node*
+l
+ll
+rm .yarn*
+l
+ll
+cd .vim
+l
+vi
+cd ..
+l
+vi
+l
+cd Workspace
+l
+ll
+git clone https://github.com/ds1sqe/project
+git clone https://github.com/ds1sqe/projects
+ll
+vi
+clear
+l
+wally
+./wally
+ls
+clear
+l
+clear
+cd 
+l
+sudo apt purge fcitx
+l
+claer
+clear
+npm install -g import-js
+sudo npm install -g import-js
+sudo apt intall node
+sudo apt install nodejs
+sudo apt autoremove
+clear
+vi
+npminstall 
+npm install express
+ll
+npm remove express
+l
+npm install -g import-js
+sudo npm install -g import-js
+mkidr /usr/lib/node_modules/import-js/node_modules/sqlite3/.node-gyp
+mkidr /usr/lib/node_modules/import-js/node_modules/sqlite3/.~node-gyp
+mkdir /usr/lib/node_modules/import-js/node_modules/sqlite3/.node-gyp
+mkdir -f /usr/lib/node_modules/import-js/node_modules/sqlite3/.node-gyp
+mkdir --help
+sudo mkdir /usr/lib/node_modules/import-js/node_modules/sqlite3/.node-gyp
+sudo npm install -g import-js --allow-root --unsafe-perm=true
+apt install python
+sudo apt install python
+sudo npm install -g import-js --allow-root --unsafe-perm=true
+sudo -E nvim
+clear
+l
+vi
+clear
+l
+sudo apt update
+apt upgrade
+sudo apt upgrade
+clear
+nautilus
+nautilus -q
+nautilus
+nautilus --version
+apt reinstall nautilus
+sudo apt reinstall nautilus
+nautlus
+nautilus
+gnome-shell -version
+gnome-shell --version
+l
+git clone https://github.com/vinceliuice/WhiteSur-gtk-theme
+l
+cd WhiteSur-gtk-theme/
+l
+cd ..
+mkdir themes
+mv WhiteSur-gtk-theme/ themes/
+l
+cd themes
+l
+cd WhiteSur-gtk-theme/
+l
+./install.sh
+nautilus
+./install.sh -t -blue
+./install.sh -t blue
+nautlus
+natulus
+nautilus
+./install.sh -i ubuntu
+l
+cd themes
+l
+cd WhiteSur-gtk-theme/
+lll
+ll
+./install.sh 
+./install.sh -i ubuntu
+./install.sh -h
+l
+cd themes/
+l
+git clone https://github.com/vinceliuice/WhiteSur-icon-theme
+ll
+cd WhiteSur-icon-theme/
+l
+./install.sh --black
+l
+cd Workspace
+l
+cd porjects
+cd projects/
+l
+cd Public
+l
+cd JavaScript/
+l
+cd jsinfo
+l
+mkdir object
+l
+cd object
+l
+touch text.js
+l
+q
+bpytop
+sudo snap install bpytop
+bpytop
+l
+cd 
+l
+cd Workspace/
+l
+cd pr
+cd projects/
+l
+cd pu
+cd Public/
+cd JavaScript/
+cd jsinfo/
+cd l
+l
+cd object
+l
+cd ..
+l
+npm install eslint --save-dev
+l
+cd object
+l
+node text.js
+l
+touch index.html
+l
+cd 
+l
+vi 
+l
+clear
+cd project
+cd projects
+cd Workspace/
+cd projects/
+cd J
+ll
+cd Public/JavaScript/jsinfo/object/
+l
+clear
+nautilus
+pu aux | grep nautilus
+sudo nautilus
+nautilus
+sudo killall nautilus && (nautilus &)
+nautilus
+clear
+vi
+cd Workspace/projects/Public/JavaScript/jsinfo/
+l
+clear
+l
+cd js101
+cd ..
+cd object/
+l
+mv text.js ./test.js
+l
+vi index.html 
+bpytop
+nautilus -q
+sudo nautilus -q
+nautilus
+sudo killall nautilus && (nautilus &)
+nautilus
+sudo nautilus
+nautilus -q
+nautilus --version
+nautilus -h
+nautilus --help-gtk
+sudo nautilus -q
+nautilus
+l
+git status
+ll
+l
+ll
+vi .gitignore
+ll
+cd Public/
+l
+cd JavaScript
+ll
+cd jsinfo/
+ll
+git status
+git add *
+cd /
+l
+cd 
+cd Workspace/projects/Public/
+l
+git add .
+l
+git status
+cd ..
+git add *
+ll
+git status
+git add .
+git status
+ll
+git commit
+git config --global core.editor "vim"
+git config --global user.email "ds1sqe@mensakorea.org"
+git config --global user.name ds1sqe
+git commit
+ll
+vi
+sudo npm install -g javascript-typescript-langserver
+sudo npm install -g vscode-css-languageserver-bin
+npm install -g npm
+sudo npm install -g npm
+clear
+ll
+q
+quit
+l
+vi
+l
+cd Workspace/
+l
+ll
+cd projects/
+l
+ll
+vi .gitignore
+clear
+ll
+vi
+vu
+vi
+i
+vi
+ll
+clear
+vi
+cd  
+l
+ll
+curl -sLf https://spacevim.org/install.sh | bash -s -- --uninstall
+vi
+bpytop
+apt search pynvim
+apt install pynvim
+sudo apt install pynvim
+apt install neovim
+sudo apt install neovim
+sudo npm install -g neovm
+sudo npm install -g neovim
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+vi
+brew install neovim 
+brew
+cd ..
+brew
+brew install
+vi
+apt remove neovim
+sudo apt remove neovim
+ll
+vi plug.vim
+nvim
+neovim
+vi
+cd ..
+ll
+vi
+cd ..
+vi
+..
+ll
+ci
+vi
+cd .local/
+ll
+vi
+snap info nvim
+brew
+su
+snap help
+snap install
+snap install help
+snap install --help
+snap install --beta nvim
+snap install --beta nvim --classic
+vi
+cd ..
+ll
+vi 
+python
+l
+apt search python
+apt install python
+clear
+ll
+.SpaceVim.d
+cd .SpaceVim
+ll
+cd ..
+ll
+cd .config
+ll
+cd ..
+rm -rf ./.Space*
+ll
+vi
+ll
+cd .config
+ll
+cd ..
+apt reinstall neovim
+sudo apt reinstall neovim
+sudo add-apt-repository ppa:neovim-ppa/stable
+sudo apt reinstall neovim
+neovim --version
+nvim --version
+ll
+cd Downloads/
+ll
+cd nvim-linux64/
+ll
+tree .
+l
+ll
+./configure
+make
+ll
+cd /
+ll
+cudo ll
+sudo ll
+ll
+ls
+la -a
+ll
+sudo add-apt-repository ppa:neovim-ppa/stable
+sudo apt-get update
+apt upgrade
+sudo apt upfrade
+sudo apt upgrade
+sudo apt remove neovim
+sudo apt install neovim
+neovim --version
+nvim --verion
+nvim --version
+apt serch neovim
+sudo apt search neovim
+apt-cache policy neovim
+apt remove neovim
+sudo apt remove neovim
+sudo add-apt-repository ppa:neovim-ppa/unstable
+neovim --versiom
+neovim --version
+nvim --version
+sudo apt update
+apt search neovim
+apt install neovim
+sudo apt install neovim
+apt status
+vi
+apt remove neovim
+sudo apt remove neovim
+ll
+apt search neovim
+sudo vi /etc/apt/sources.list
+ll
+sudo add-apt-repository -r ppa:neovim-ppa/unstable
+apt update
+sudo apt update
+apt search neovim
+sudo apt search neovim
+apt update
+sudo apt-get update
+apt search nvim
+apt search neovim
+sudo apt install neovim
+nvim --version
+apt remove neovim
+sudo apt remove neovim
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ll
+cd 
+l
+cd tmp
+mkdir tmp
+ll
+cd tmp
+ll
+git clone https://github.com/neovim/neovim/tree/v0.5.0
+ll
+git clone https://github.com/neovim/neovim/tree/v0.5.0
+sudo add-apt-repository ppa:neovim-ppa/stable
+sudo apt-get update
+apt search neovim
+apt-cache search neovim
+apt-cache show neovim
+tar
+curl
+brew
+git clone https://github.com/neovim/neovim.git
+ll
+cd neovim
+ll
+git checkout stable
+make CMAKE_BUILD_TYPE=Release
+cmake
+sudo apt install cmake
+ll
+make CMAKE_BUILD_TYPE=Release
+sudo make CMAKE_BUILD_TYPE=Release
+automake
+sudo apt install automake
+make CMAKE_BUILD_TYPE=Release
+libtoolize
+sudo apt install libtool
+sudo make CMAKE_BUILD_TYPE=Release
+libtool
+sudo apt install libtool-bin
+sudo make CMAKE_BUILD_TYPE=Release
+sudo apt-get install ninja-build gettext libtool libtool-bin autoconf automake cmake g++ pkg-config unzip curl
+sudo make CMAKE_BUILD_TYPE=Release
+sudo apt-get install ninja-build gettext libtool libtool-bin autoconf automake cmake g++ pkg-config unzip curl
+sudo apt autoremove
+ll
+sudo make CMAKE_BUILD_TYPE=Release
+gcc
+rm -r build/
+rm -rf build/ -y
+rm -rfy build/
+sudo rm -rf build/ -Y
+sudo rm -rf build/
+sudo make CMAKE_BUILD_TYPE=Release
+cd ..
+rm -rf ./tmp
+sudo rm -rf ./tmp 
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> /home/ds1sqe/.profile
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+brew
+sudo apt-get install build-essential
+brew install neovim
+vi
+ll
+echo $NVIMPATH
+ll
+cd .config
+l
+echo $XDG_CONFIG_HOME/nvim/init.vim
+cd nvim
+mkdir nvim
+l
+cd nvim/
+l
+cd $HOME/.local/share/nvim/site/autoload/
+cd ~/.local
+l
+cd share
+ll
+cd nvim
+ll
+sh -c 'curl -fLo $HOME/.local/share/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+ll
+cd 
+l
+cd .config
+ll
+cd nvim
+ll
+touch init.vim
+touch maps.vim
+touch plug.vim
+mkdir after colors
+tree .
+mkdir after/plugin
+tree .
+vi .
+vi
+apt install pyvim
+sudo apt install pyvim
+vi
+pip
+sudo apt install python3-ppip
+sudo apt install python3-pip
+pip
+pip install pyvim
+vi
+clear
+vi
+ll
+vi init
+vi init.vim 
+vi
+cd 
+ll
+vi
+sudo vi
+vi
+cd .local/share/
+ll
+cd nvim/
+ll
+cd site/
+ll
+cd autoload/
+ll
+vi plug.vim
+cd 
+ll
+cd .config
+ll
+cd nvim
+ll
+vi init.vim
+vi
+ll
+vi init.vim
+vi plug.vim 
+ll
+vi init.vim
+vi
+vi init.vim
+vi
+vi init.vim
+vi
+vi init.vim
+vi
+vi init.vim
+vi
+vi init.vim 
+vi
+vi init.vim 
+vi
+vi init.vim
+vi
+ll
+vi plug.vim 
+vi
+vi plug.vim 
+vi
+ll
+cd after
+ll
+cd plugin
+ll
+cd ..
+ll
+cd ..
+ll
+vi maps.vim 
+vi
+starsharp
+ll
+vi init.vim
+ll
+touch lsps.lua
+ll
+vi init.vim
+vi
+ll
+vi init.vim
+vi
+ll
+rm lsps.lua
+ll
+vi lsps.vim
+ll
+vi plug.vim
+vi
+ll
+tree .
+vi init.vim
+vi
+vi init.vim 
+vi
+vi init.vim 
+vi
+vi init.vim 
+clear
+q
+clear
+ll
+cd ..
+ll
+cd tmp
+mkdir tmp
+ll
+cd tmp
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+LVBRANCH=rolling bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/rolling/utils/installer/install.sh)
+ll
+cd ~/.local/share/lunarvim/
+ll
+LVBRANCH=rolling bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/rolling/utils/installer/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+.,
+.
+tree .
+vi
+lvim
+ll
+cd nvim
+ll
+lvim
+ll
+clear
+cd ..
+ll
+cd ..
+ll
+vi
+cd .config
+ll
+cd lvim
+ll
+cd ..
+cd nvim
+ll
+cd ..
+ll
+lvim
+nvim
+cd ..
+ll
+cd ,,
+cd ..
+ll
+cd ds1sqe
+ll
+cd .config
+ll
+vi starchip.toml
+cd ..
+ll
+vi .bashrc
+vi
+bash
+ll
+vi
+ll
+clear
+ll
+vi .gitconfig 
+ln .bashrc .config/.bashrc
+ll
+cd .config
+ll
+tree lvim/
+vi .gitignore
+vi
+ll
+cd lvim/
+ll
+vi 
+vi
+lvim
+vi
+nvim
+lvim
+:q
+ll
+cd  
+ll
+vi
+cd .config
+l
+lcd lvim
+ll
+cd lvim
+ll
+vi lv-config.lua
+cd ..
+ll
+vi bashrc
+vi .bashrc 
+ll
+cd nvim
+ll
+vi
+lvim
+vi
+ll
+vi
+ll
+vi
+ll
+cd lvim
+cd ../lvim
+ll
+cd ..
+rm -rf ./lvim
+ll
+nvim
+cd nvim
+ll
+vi
+vi .
+vi init.vim
+vi lsps.vim
+vi plug.vim
+vi init.vim
+ll
+vi plug.vim 
+vi init.vim
+echo $XDG_CONFIG_HOME
+echo $VIMINIT
+vi
+lvim
+ll
+cd 
+l
+cd .loacl
+cd .local/
+ll
+cd bin
+ll
+cd ..
+cd shrae
+cd share
+ll
+rm -rf lunnarvim
+ll
+rm -rf lunarvim/
+ll
+vi
+cd 
+ll
+cd .local
+ll
+cd share
+ll
+cd nvim
+ll
+tree .
+rm -rf .
+cd ,,
+ll
+cd ..
+ll
+rm -rf nvim
+ll
+nvim
+cd ..
+ll
+apt remove nvim
+sudo apt remove nvim
+sudo apt remove neovim
+sudo apt purge neovim
+ll
+nvim
+brew --help
+vi
+which nvim
+brew uninstall
+brew uninstall neovim
+nvim
+ll
+vi
+which vi
+which nvim
+snap --help
+snap list
+snap remove nvim
+ll
+nvim
+vi
+nvim
+vim
+ll
+clear
+snap find nvim
+snap find neovim
+clear
+brew search nvi
+brew search nvin
+brew search nvim
+brew --help
+brew info neovim
+brew install neovim
+nvim
+brew update
+luajit
+brew list
+clear
+ll
+clear
+which nvim
+ls -s (which nvim) /usr/local/bin/nvim
+ls -s /home/linuxbrew/.linuxbrew/bin/nvim /usr/local/bin/nvim
+ls -s /home/linuxbrew/.linuxbrew/bin/nvim /usr/local/bin/vim
+ls -sf /home/linuxbrew/.linuxbrew/bin/nvim /usr/local/bin/nvim
+mkdir /usr/local/bin/nvim
+sudo mkdir /usr/local/bin/nvim
+ll
+ls -sf /home/linuxbrew/.linuxbrew/bin/nvim /usr/local/bin/nvim
+ll
+which nvim
+which vim
+which nvim
+nvim
+cd .config
+ll
+cd nvim
+ll
+nvim
+cd 
+l
+cd .local
+ll
+cd share
+ll
+cd nvim
+ll
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+ll
+tree .
+cd ..
+ll
+cd nvim
+ll
+cd  
+cd .config
+ll
+cd nvim
+l
+vi .
+ll
+vi .
+vi maps
+ll
+cd after/
+l
+tree .
+tree ..
+cd 
+ll
+cd .config/
+ll
+cd nvim/
+ll
+vi init.vim
+cd 
+ll
+cd .cache
+ll
+cd nvim
+ll
+cd ..
+ll
+cd ..
+ll
+cd tmp
+ll
+cd ,,
+ll
+lua
+cd  
+rm -rf ~/.local/share/lunarvim
+sudo rm /usr/local/bin/lvim
+rm -rf ~/.local/share/applications/lvim.desktop
+ll
+clear
+nvim
+ll
+cd  
+cd .config/nvim/
+ll
+vi init.vim
+vim init.vim
+cd ..
+ll
+which vi
+which nvim
+which vim
+ll
+nvim
+vi .bashrc
+ll
+nvim .bashrc
+nvim
+vi
+cd .config
+ll
+vi starship.toml 
+nvim starship.toml 
+vi .bashrc 
+nvim .bashrc 
+bash
+nvim
+vi
+nvim
+vim
+l
+cd nvim
+ll
+vi init.vim
+vi
+ll
+clear
+ll
+cd after
+ll
+cd plugin/
+ll
+vi lspconfig.rc.vim
+ll
+cd ..
+ll
+cd ...
+cd ..
+l
+pwd
+vi init.vim
+ll
+vi plug.vim
+ll
+vi 
+vi
+ll
+cd after/plugin/
+ll
+cd ..
+ll
+cd ..
+ll
+rm lsps.vim
+ll
+vi plug.vim
+vi
+ll
+cd after
+l
+cd plugin/
+ll
+vi lualine.rc.lua 
+ll
+:echo
+vi
+ll
+vi lspconfig.rc.vim 
+ll
+clear
+ll
+cd ..
+ll
+cd ..
+ll
+vi plug.vim
+cd after/
+l
+cd plugin/
+ll
+vi lspinstall.rc.lua
+ll
+vi
+ll
+vi telescope.rc.vim 
+ll
+cd nvim
+ll
+cd ..
+ll
+vi plug.vim
+vi
+ll
+cd after
+ll
+cd plugin/
+ll
+vi dashboard-nvim
+vi dashboardnvim.rc
+vi dashboardnvim.rc.vim
+vi
+ll
+cd ..
+ll
+vi plug.vim
+vi init.vim
+vi
+ll
+vi .
+vi
+ll
+vi
+ll
+vi plug.vim
+vi
+ll
+cd after
+l
+cd plugin
+ll
+vi witch-key.rc.lua
+vi
+vi .
+vi
+lll
+cd 
+cd .config/nvim
+l
+vi maps.vim
+vi
+vi maps.vim 
+vi
+clear
+vi
+cd ..
+ll
+cd nvim
+ll
+vi
+vi .
+vi
+ll
+vlear
+clear
+ll
+vi plug.vim
+vi after
+ll
+cd after
+vi nvim-toggleterm.rc.lua
+vi
+vi .
+ll
+mv nvim-toggleterm.rc.lua plugin/
+ll
+cd plugin/
+ll
+vi nvim-toggleterm.rc.lua 
+cd ..
+l
+vi maps.vim 
+ll
+cd after
+ll
+cd plugin/
+ll
+vi nvim-toggleterm.rc.lua 
+vi
+vi nvim-toggleterm.rc.lua 
+:q
+q
+clear
+ll
+kill
+clear
+q
+Q
+q
+;clear
+bi
+vi
+q
+ll
+vi
+ll
+clera
+clear
+ll
+clear
+ll
+lll
+ll
+cd ..
+ll
+cd Workspace/
+l
+cd ..
+ll
+cd .config/
+ll
+cd nvim
+ll
+vi
+ll
+vi
+vi .
+vi
+ll
+cd after
+ll
+cd plugin/
+ll
+vi
+ll
+vi dashboardnvim.rc.vim 
+cd ..
+ll
+cd ..
+ll
+vi plug.vim
+vi
+ll
+vi after
+vi
+ll
+vi plug.vim
+vi
+ll
+clear
+vi
+ll
+vi init.vim
+vi
+vi init.vim
+vi
+l
+ll
+vi init.vim
+vi
+curl -fsSL https://deno.land/x/install/install.sh | sh
+deno run https://deno.land/std/examples/welcome.ts
+sudo snap install deno
+clear
+ll
+deno
+ll
+clear
+l
+vi
+vi jk.js
+l
+vi init.vim
+l
+cd after/plugin/
+l
+vi lspconfig.rc.vim 
+cd 
+l
+apt install eslint
+sudo apt install eslint
+apt search preetier
+apt search pretier
+clear
+npm install --save-dev --save-exact prettier
+clear
+ll
+clear
+ll
+cd .config
+l
+cd nvim
+ll
+cd after
+ll
+cd plugin/
+l
+vi lualine.rc.lua 
+l
+vi
+ll
+vi treesitter.rc.vim 
+vi
+vi jkjkj.js
+ll
+cd ..
+ll
+cd ..
+l
+cd ..
+cd nvi
+cd nvim/
+l
+vi init.vim
+vi maps.vim
+vi .
+ll
+vi
+cd 
+l
+vi package.json 
+l
+touch etc.js
+vi etc.js
+l
+ll
+cd .config/nvim/
+l
+vi init.vim
+cd after/plugin/
+l
+vi lspconfig.rc.vim 
+cd  
+ll
+vi etc.ts
+ll
+cd  
+ll
+cd .con 
+cd .config/nvim/
+l
+vi
+cd 
+ll
+cd .config/nvim/
+l
+vi init.vim
+vi
+:q
+clear
+cd ,,
+cd..
+cd ..
+l
+cp nvim/ ..nvim/
+cp nvim/ xnvim/
+cp -r  nvim/ xnvim/
+ll
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+ll
+cd lvim
+ll
+lvim
+vi
+lvim
+vi
+lvim
+ll
+vi lv-config.lua 
+ll
+cd ,,
+cd ..
+ll
+rm -rf rf-nvim
+lvim
+vi
+lvi
+lvim
+ll
+clear
+l
+cd ..
+ll
+cd .local/
+ll
+cd share/
+ll
+cd lunarvim/
+ll
+cd lvim
+ll
+git chekout
+git checkout rolling
+git remote --status
+git remote -v
+git fetch origin
+c;ear
+clear
+git status
+git pull
+clear
+cd ..
+cd 
+l
+lvim
+ll
+cd .local/
+ll
+git status
+ll
+cd share
+ll
+cd lunarvim/
+ll
+lvim
+ll
+cd lvim/
+ll
+cd lua
+ll
+lvim keymappings.lua 
+lvim
+ll
+vi keymappings.lua 
+lvim
+clear
+lvim
+ll
+clear
+lvim
+vi
+lvim
+vi
+nvim
+lvim
+clear
+lvim
+cd 
+lvim
+claer
+clear
+lvim
+cd ../config
+cd ..
+cd .config/
+l
+cd xmvim
+ll
+cd nvi
+cd n
+cd nvim
+ll
+cd ..
+rm -rf nvim
+ll
+vi xnvim
+vi
+vi ,
+vi .
+ll
+vi xnvim
+clear
+lvim
+clear
+ll
+cd autoconfig
+ll
+cd dotfiles/
+ll
+cd autoconfig
+ll
+auto.sh
+touch auto.sh
+ll
+clear

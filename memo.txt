@@ -1,0 +1,22 @@
+
+
+Terminal.. 
+
+Ctrl Shift I to go Line Start,
+Ctrl Shift A to go Line End
+
+Auto Setting Process
+
+0. install brew, git, curl, wget, npm (installer & Package manager)
+
+1. bash - starship install
+
+2. link bash & starship configs
+
+3. install neovim 
+
+4. install lvim
+
+5. link lunar vim config files 
+
+6. setting the themes
