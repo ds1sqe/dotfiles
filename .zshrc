@@ -16,7 +16,7 @@ zstyle :compinstall filename '/home/ds1sqe/.zshrc'
 
 autoload -Uz compinit
 compinit
-HISTFILE=~/.historyOfZsh
+HISTFILE=~/.zshHistory
 HISTSIZE=2999
 SAVEHIST=2999
 bindkey -v
